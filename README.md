@@ -61,9 +61,5 @@ A modern, responsive landing page built using **HTML, CSS, and JavaScript** with
 
 ---
 
-## 📱 Responsive Design
-This website adapts perfectly to all screen sizes using modern CSS techniques.
 
----
-   ```bash
-   git clone https://github.com/your-username/maincrafts-landing-page.git
+
